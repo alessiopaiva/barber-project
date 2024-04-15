@@ -7,7 +7,7 @@
 
   Barber is a fully responsive barber website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <!-- <a href="https://alessiopaiva.github.io/barber-project"><strong>➥ Live Demo</strong></a> -->
+   <a href="https://alessiopaiva.github.io/barber-project"><strong>➥ Live Demo</strong></a>
 
 </div>
 
